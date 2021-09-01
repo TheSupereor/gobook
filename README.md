@@ -63,7 +63,39 @@ Para poder utilizar a recomendação é necessário um acesso a um banco de dado
 ---
 ### Autor
 
-Feito com ❤️, 💦 e ☕! Entre em contato!
+Feito com ❤️, 💦 e ☕ por Narciso Ferreira! Entre em contato!
+
+<img style="border-radius:50%;" src="https://user-images.githubusercontent.com/55772578/131742574-f6007b21-bf20-471a-a66f-1c608f6551cb.jpg" width="200px;" alt=""/>
 
 [![Twitter Badge](https://img.shields.io/badge/-@TheSupereor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thesupereor)](https://twitter.com/thesupereor) 
 [![Linkedin Badge](https://img.shields.io/badge/-Narciso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narcisoferreira/)](https://www.linkedin.com/in/narcisoferreira/) 
+
+### Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+     <a href="https://github.com/EmanuB">
+      <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/55772578/131742246-c740e29d-bbc3-4ff4-8b55-d37eab1f61f5.jpg" width="100px;" alt=""/>
+      <br />
+      <sub>
+       <b>Emanuel</b>
+      </sub>
+     </a>
+     <br />
+     <a href="https://github.com/EmanuB" title="Emanuel">👨‍🚀</a>
+   </td>
+    
+   <td align="center">
+     <a href="https://github.com/barbosLiv">
+      <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/55772578/131742294-600fff9d-7e12-4d54-a5d2-f43afd2b7570.jpg" width="100px;" alt=""/>
+      <br />
+      <sub>
+       <b>Lívia Andrade</b>
+      </sub>
+     </a>
+     <br />
+     <a href="https://github.com/barbosLiv" title="Lívia">👨‍🚀</a>
+   </td>
+  </tr>
+</table>
