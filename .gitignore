@@ -18,7 +18,6 @@
 # misc
 .DS_Store
 *.pem
-./lib/connect.js
 
 # debug
 npm-debug.log*
