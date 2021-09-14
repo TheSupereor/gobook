@@ -62,7 +62,11 @@
 }
 
 .ccm{
-  margin: 0 20px 0 700px;
+  background: url('../src/images/ccmpsc.png');
+  width: 99px;
+  height: 44px;
+  position: relative;
+  right: -80%;
 }
 
 .respondida{
@@ -335,7 +339,6 @@
 
 @media (max-width: 1200px) {
   .interact .title{
-    width: 500px;
     margin-top: 0;
   }
 
@@ -345,5 +348,18 @@
 
   .ansButton p {
     font-size: 0.8rem;
+  }
+
+  .ccm{
+    right: -60%;
+  }
+
+  .grid{
+    flex-wrap: wrap;
+  }
+
+  .ansButton{
+    width: calc(50% - 1rem);
+    height: 150px;
   }
 }

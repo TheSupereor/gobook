@@ -47,12 +47,7 @@ export default function Home() {
           </div>
 
           <div className={styles.ccm}>
-            <Image src={ccm}
-              width={99}
-              height={44}
-              layout="fixed"
-              quality={100}
-            />
+            
           </div>
         </div>
       </main>
